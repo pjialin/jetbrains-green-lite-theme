@@ -1,0 +1,14 @@
+{
+  "name": "Green lite",
+  "dark": true,
+  "author": "Jalin",
+  "editorScheme": "/green_lite.xml",
+  "colors": {
+    "basicBackground": "#222a2d"
+  },
+  "ui": {
+    "*": {
+      "background": "basicBackground"
+    }
+  }
+}
