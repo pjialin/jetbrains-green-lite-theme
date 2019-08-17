@@ -684,8 +684,8 @@
         </option>
         <option name="ERRORS_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="f44747"/>
-                <option name="ERROR_STRIPE_COLOR" value="f44747"/>
+                <option name="EFFECT_COLOR" value="E14C61"/>
+                <option name="ERROR_STRIPE_COLOR" value="E14C61"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -722,8 +722,8 @@
         </option>
         <option name="GENERIC_SERVER_ERROR_OR_WARNING">
             <value>
-                <option name="EFFECT_COLOR" value="ff8c00"/>
-                <option name="ERROR_STRIPE_COLOR" value="ff8c00"/>
+                <option name="EFFECT_COLOR" value="825B41"/>
+                <option name="ERROR_STRIPE_COLOR" value="825B41"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -829,8 +829,8 @@
         </option>
         <option name="INFO_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="e5c07b"/>
-                <option name="ERROR_STRIPE_COLOR" value="e5c07b"/>
+                <option name="EFFECT_COLOR" value="808080"/>
+                <option name="ERROR_STRIPE_COLOR" value="808080"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -1155,7 +1155,7 @@
         </option>
         <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="f44747"/>
+                <option name="EFFECT_COLOR" value="E14C61"/>
                 <option name="EFFECT_TYPE" value="3"/>
             </value>
         </option>
@@ -1517,8 +1517,8 @@
         <option baseAttributes="DEFAULT_STRING" name="RUBY_WORDS"/>
         <option name="RUNTIME_ERROR">
             <value>
-                <option name="EFFECT_COLOR" value="ff8c00"/>
-                <option name="ERROR_STRIPE_COLOR" value="f44747"/>
+                <option name="EFFECT_COLOR" value="825B41"/>
+                <option name="ERROR_STRIPE_COLOR" value="E14C61"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1729,7 +1729,7 @@
         </option>
         <option name="TYPO">
             <value>
-                <option name="EFFECT_COLOR" value="98c379"/>
+                <option name="EFFECT_COLOR" value="808080"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -1740,14 +1740,14 @@
         </option>
         <option name="Unresolved reference access">
             <value>
-                <option name="EFFECT_COLOR" value="f44747"/>
+                <option name="EFFECT_COLOR" value="E14C61"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
         <option name="WARNING_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="ff8c00"/>
-                <option name="ERROR_STRIPE_COLOR" value="ff8c00"/>
+                <option name="EFFECT_COLOR" value="825B41"/>
+                <option name="ERROR_STRIPE_COLOR" value="825B41"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -1764,8 +1764,8 @@
         </option>
         <option name="WRONG_REFERENCES_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="f44747"/>
-                <option name="ERROR_STRIPE_COLOR" value="f44747"/>
+                <option name="EFFECT_COLOR" value="E14C61"/>
+                <option name="ERROR_STRIPE_COLOR" value="E14C61"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
