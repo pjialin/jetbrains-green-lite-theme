@@ -8,7 +8,8 @@
   },
   "ui": {
     "*": {
-      "background": "basicBackground"
+      "background": "basicBackground",
+      "separatorColor": "#263033"
     },
     "Borders": {
       "color": "#2a3235",

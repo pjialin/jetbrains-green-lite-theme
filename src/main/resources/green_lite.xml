@@ -27,16 +27,16 @@
         <option name="HTML_TAG_TREE_LEVEL3" value="56b6c2"/>
         <option name="HTML_TAG_TREE_LEVEL4" value="58b9ec"/>
         <option name="HTML_TAG_TREE_LEVEL5" value="58b9ec"/>
-        <option name="INDENT_GUIDE" value="3b4048"/>
+        <option name="INDENT_GUIDE" value="2A3235"/>
         <option name="INFORMATION_HINT" value="2F3537"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984"/>
         <option name="LINE_NUMBERS_COLOR" value="495162"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="3b4048"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="2A3235"/>
         <option name="MODIFIED_LINES_COLOR" value="d19a66"/>
         <option name="QUESTION_HINT" value="2e4280"/>
         <option name="RECENT_LOCATIONS_SELECTION" value="2F3537"/>
-        <option name="RIGHT_MARGIN_COLOR" value="606368"/>
-        <option name="SELECTED_INDENT_GUIDE" value="606368"/>
+        <option name="RIGHT_MARGIN_COLOR" value="4D5A5F"/>
+        <option name="SELECTED_INDENT_GUIDE" value="4D5A5F"/>
         <option name="SELECTED_TEARLINE_COLOR" value="6b6e73"/>
         <option name="SELECTION_BACKGROUND" value="3F4B50"/>
         <option name="SEPARATOR_BELOW_COLOR" value=""/>
@@ -44,7 +44,7 @@
         <option name="VCS_ANNOTATIONS_COLOR_1" value="335027"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c"/>
         <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c"/>
-        <option name="VISUAL_INDENT_GUIDE" value="3b4048"/>
+        <option name="VISUAL_INDENT_GUIDE" value="2A3235"/>
         <option name="WHITESPACES" value="4b575f"/>
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5c6370"/>
     </colors>
@@ -123,7 +123,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="4a4143"/>
+                <option name="BACKGROUND" value="262D31"/>
             </value>
         </option>
         <option name="BUILDOUT.KEY">
@@ -697,8 +697,7 @@
         </option>
         <option name="EXECUTIONPOINT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="000000"/>
-                <option name="BACKGROUND" value="c7c7ff"/>
+                <option name="BACKGROUND" value="4A4143"/>
             </value>
         </option>
         <option name="FIRST SYMBOL IN LIST">
