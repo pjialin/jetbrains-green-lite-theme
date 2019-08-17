@@ -1,6 +1,6 @@
 <scheme name="Green lite" parent_scheme="Darcula" version="142">
     <colors>
-        <option name="ADDED_LINES_COLOR" value="98c379"/>
+        <option name="ADDED_LINES_COLOR" value="457337"/>
         <option name="ANNOTATIONS_COLOR" value="a0a7b4"/>
         <option name="CARET_COLOR" value="528bff"/>
         <option name="CARET_ROW_COLOR" value="2B3235"/>
@@ -32,7 +32,7 @@
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984"/>
         <option name="LINE_NUMBERS_COLOR" value="495162"/>
         <option name="METHOD_SEPARATORS_COLOR" value="2A3235"/>
-        <option name="MODIFIED_LINES_COLOR" value="d19a66"/>
+        <option name="MODIFIED_LINES_COLOR" value="875D44"/>
         <option name="QUESTION_HINT" value="2e4280"/>
         <option name="RECENT_LOCATIONS_SELECTION" value="2F3537"/>
         <option name="RIGHT_MARGIN_COLOR" value="4D5A5F"/>
@@ -849,14 +849,12 @@
         </option>
         <option name="INLINE_PARAMETER_HINT_CURRENT">
             <value>
-                <option name="FOREGROUND" value="abb2bf"/>
-                <option name="BACKGROUND" value="48709b"/>
+                <option name="FOREGROUND" value="E5C07B"/>
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
             <value>
-                <option name="FOREGROUND" value="abb2bf"/>
-                <option name="BACKGROUND" value="5c6370"/>
+                <option name="FOREGROUND" value="646871"/>
             </value>
         </option>
         <option name="IVAR">
