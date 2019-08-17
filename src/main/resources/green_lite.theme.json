@@ -9,6 +9,33 @@
   "ui": {
     "*": {
       "background": "basicBackground"
+    },
+    "Borders": {
+      "color": "#2a3235",
+      "ContrastBorderColor": "#2a3235"
+    },
+    "SearchEverywhere": {
+      "Header.background": "#222A2D",
+      "SearchField": {
+        "background": "#1B2225",
+        "borderColor": "#1b1d21"
+      }
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "#353a3c",
+        "inactiveBackground": "#2a3133"
+      }
+    },
+    "ProgressBar": {
+      "trackColor": "#1D1D26",
+      "progressColor": "#568AF2",
+      "indeterminateStartColor": "#568AF2",
+      "indeterminateEndColor": "#313469",
+      "failedColor": "#bd3c5f",
+      "failedEndColor": "#472c33",
+      "passedColor": "#239E62",
+      "passedEndColor": "#2b4242"
     }
   }
 }

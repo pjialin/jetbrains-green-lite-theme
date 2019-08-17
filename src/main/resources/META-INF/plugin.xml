@@ -1,14 +1,15 @@
 <idea-plugin>
-    <id>com.green.lite.green-lite-theme</id>
+    <id>com.pjialin.green-lite-theme</id>
     <name>Green lite theme</name>
+    <category>UI</category>
     <vendor email="admin@pjialin.com" url="https://pjialin.com">Jalin</vendor>
-
+    <depends>com.intellij.modules.lang</depends>
+    <description>
+        A simple green theme changed from one dark theme.
+    </description>
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
         <themeProvider id="b31eb457-0b88-40d6-813d-7f29114d85bb" path="/green_lite.theme.json"/>
     </extensions>
 
-    <actions>
-        <!-- Add your actions here -->
-    </actions>
 </idea-plugin>

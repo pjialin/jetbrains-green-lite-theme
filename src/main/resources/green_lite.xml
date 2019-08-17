@@ -522,7 +522,7 @@
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="7bc65a"/>
+                <option name="FOREGROUND" value="58B9EC"/>
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -532,7 +532,12 @@
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="58b9ec"/>
+                <option name="FOREGROUND" value="58B9EC"/>
+            </value>
+        </option>
+        <option name="DEFAULT_LOCAL_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="abb2bf" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
@@ -840,8 +845,7 @@
         </option>
         <option name="INLINE_PARAMETER_HINT">
             <value>
-                <option name="FOREGROUND" value="abb2bf"/>
-                <option name="BACKGROUND" value="2F3537"/>
+                <option name="FOREGROUND" value="646871"/>
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_CURRENT">
@@ -937,7 +941,7 @@
         </option>
         <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="7bc65a"/>
+                <option name="FOREGROUND" value="58B9EC"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
