@@ -311,7 +311,7 @@
         </option>
         <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="e5c07b"/>
+                <option name="FOREGROUND" value="7BC65A"/>
             </value>
         </option>
         <option name="CSS.COLOR">
@@ -390,7 +390,7 @@
         </option>
         <option name="Clojure Character">
             <value>
-                <option name="FOREGROUND" value="98c379"/>
+                <option name="FOREGROUND" value="d6b579"/>
             </value>
         </option>
         <option name="Clojure Keyword">
@@ -416,7 +416,7 @@
         </option>
         <option name="Clojure Strings">
             <value>
-                <option name="FOREGROUND" value="98c379"/>
+                <option name="FOREGROUND" value="d6b579"/>
             </value>
         </option>
         <option name="DART_ENUM_CONSTANT">
@@ -600,7 +600,7 @@
         <option baseAttributes="DEFAULT_FUNCTION_DECLARATION" name="DEFAULT_STATIC_METHOD"/>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="98c379"/>
+                <option name="FOREGROUND" value="d6b579"/>
             </value>
         </option>
         <option baseAttributes="TEXT" name="DEFAULT_TEMPLATE_LANGUAGE_COLOR"/>
@@ -877,11 +877,6 @@
             </value>
         </option>
         <option baseAttributes="DEFAULT_KEYWORD" name="JAVA_KEYWORD"/>
-        <option name="JAVA_STRING">
-            <value>
-                <option name="FOREGROUND" value="98c379"/>
-            </value>
-        </option>
         <option baseAttributes="DEFAULT_VALID_STRING_ESCAPE" name="JAVA_VALID_STRING_ESCAPE"/>
         <option name="JS.ATTRIBUTE">
             <value>
@@ -1349,11 +1344,6 @@
         <option name="PY.SELF_PARAMETER">
             <value>
                 <option name="FOREGROUND" value="58b9ec"/>
-            </value>
-        </option>
-        <option name="PY.STRING">
-            <value>
-                <option name="FOREGROUND" value="98c379"/>
             </value>
         </option>
         <option baseAttributes="DEFAULT_STRING" name="PY.STRING.B"/>
