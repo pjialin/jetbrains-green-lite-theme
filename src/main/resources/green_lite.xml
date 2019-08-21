@@ -15,12 +15,12 @@
         <option name="DIAGRAM_NOTE_BACKGROUND" value="2F3537"/>
         <option name="DIAGRAM_NOTE_BORDER" value="5c6370"/>
         <option name="DIAGRAM_REALIZATION_EDGE" value="98c379"/>
-        <option name="DIFF_SEPARATORS_BACKGROUND" value="222A2D"/>
+        <option name="DIFF_SEPARATORS_BACKGROUND" value="22282D"/>
         <option name="DOCUMENTATION_COLOR" value="2F3537"/>
         <option name="ERROR_HINT" value="781732"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f"/>
         <option name="FOLDED_TEXT_BORDER_COLOR" value=""/>
-        <option name="GUTTER_BACKGROUND" value="222A2D"/>
+        <option name="GUTTER_BACKGROUND" value="22282D"/>
         <option name="HTML_TAG_TREE_LEVEL0" value="f44747"/>
         <option name="HTML_TAG_TREE_LEVEL1" value="e5c07b"/>
         <option name="HTML_TAG_TREE_LEVEL2" value="98c379"/>
@@ -237,7 +237,7 @@
         <option name="CONSOLE_GRAY_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="646a73"/>
-                <option name="ERROR_STRIPE_COLOR" value="222A2D"/>
+                <option name="ERROR_STRIPE_COLOR" value="22282D"/>
             </value>
         </option>
         <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -1682,7 +1682,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="abb2bf"/>
-                <option name="BACKGROUND" value="222A2D"/>
+                <option name="BACKGROUND" value="22282D"/>
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

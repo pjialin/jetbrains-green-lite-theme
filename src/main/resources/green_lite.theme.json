@@ -4,7 +4,7 @@
   "author": "Jalin",
   "editorScheme": "/green_lite.xml",
   "colors": {
-    "basicBackground": "#222a2d"
+    "basicBackground": "#22282D"
   },
   "ui": {
     "*": {
@@ -16,7 +16,7 @@
       "ContrastBorderColor": "#2a3235"
     },
     "SearchEverywhere": {
-      "Header.background": "#222A2D",
+      "Header.background": "#22282D",
       "SearchField": {
         "background": "#1B2225",
         "borderColor": "#1b1d21"
