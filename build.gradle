@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'com.pjialin'
-version '0.1.0'
+version '0.1.1'
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
@@ -11,5 +11,9 @@ intellij {
 }
 patchPluginXml {
     sinceBuild '191'
-    changeNotes """change notes here."""
+    changeNotes """Update background, string text color, and some color adjust. """
+}
+publishPlugin {
+    username intellijPublishUsername
+    password intellijPublishPassword
 }
