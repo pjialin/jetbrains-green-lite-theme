@@ -3,15 +3,16 @@ plugins {
 }
 
 group 'com.pjialin'
-version '0.1.1'
+version '0.1.2'
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
     version '2019.2'
+    updateSinceUntilBuild = false
 }
 patchPluginXml {
     sinceBuild '191'
-    changeNotes """Update background, string text color, and some color adjust. """
+    changeNotes """Upgrade supprot version number """
 }
 publishPlugin {
     username intellijPublishUsername
